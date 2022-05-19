@@ -1,6 +1,6 @@
 Because copyright is dumb and I have no intention to care and all intentions to allow free reign over using and learning with my code (*And because those that care about copyright have complained they are not legally allowed to use my software and code the way I intended without telling them directly /rant*),
 
-# This page gives explicit permission to ALL REPOSITORIES under the https://github.com/sigonasr2 domain to be treated under the WTFPL license with no exceptions as of 19 May 2022 until the end of time:
+# This page gives explicit permission to ALL REPOSITORIES under the https://github.com/sigonasr2 domain to be treated under the WTFPL license (And as such, free reign & usage) with no exceptions as of 19 May 2022 until the end of time:
 
 ```
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
