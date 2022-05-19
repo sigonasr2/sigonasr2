@@ -1,16 +1,32 @@
-### Hi there 👋
+Because copyright is dumb and I have no intention to care and all intentions to allow free reign over using and learning with my code (*And because those that care about copyright have complained they are not legally allowed to use my software and code the way I intended without telling them directly /rant*),
 
-<!--
-**sigonasr2/sigonasr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# This page gives explicit permission to ALL REPOSITORIES under the https://github.com/sigonasr2 domain to be treated under the WTFPL license with no exceptions as of 19 May 2022 until the end of time:
 
-Here are some ideas to get you started:
+```
+           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                   Version 2, December 2004
+ 
+Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name is changed.
+ 
+           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+ 0. You just DO WHAT THE FUCK YOU WANT TO.
+```
+
+`ALL PROJECTS, ALL CODE, ALL SOFTWARE, PROVIDED AS IS WITHOUT WARRANTY.`
+
+```
+All programs found in repositories stored under the https://github.com/sigonasr2
+     * domain is free software. It comes without any warranty, to
+     * the extent permitted by applicable law. You can redistribute it
+     * and/or modify it under the terms of the Do What The Fuck You Want
+     * To Public License, Version 2, as published by Sam Hocevar. See
+     * http://www.wtfpl.net/ for more details.
+```
+
+I wouldn't be publishiing projects here if I didn't want people using my software and learning from it!
