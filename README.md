@@ -28,5 +28,6 @@ All programs found in repositories stored under the https://github.com/sigonasr2
      * To Public License, Version 2, as published by Sam Hocevar. See
      * http://www.wtfpl.net/ for more details.
 ```
+[![WTFPL](aHR0cDovL3d3dy53dGZwbC5uZXQvd3AtY29udGVudC91cGxvYWRzLzIwMTIvMTIvd3RmcGwtYmFkZ2UtMS5wbmc_.webp)](http://www.wtfpl.net/about/)
 
 I wouldn't be publishiing projects here if I didn't want people using my software and learning from it!
