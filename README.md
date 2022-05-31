@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigonasr2)](https://github.com/anuraghazra/github-readme-stats\)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigonasr2&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 Because copyright is dumb and I have no intention to care and all intentions to allow free reign over using and learning with my code (*And because those that care about copyright have complained they are not legally allowed to use my software nor my code the way I intended without telling them directly /rant*),
 
